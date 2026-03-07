@@ -1,0 +1,7 @@
+*.go
+*.php
+*.ruby
+*.yaml
+*.yml
+*Dockerfile*
+*docker-compose*
